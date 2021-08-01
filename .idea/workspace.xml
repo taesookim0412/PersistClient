@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91be388-458f-4306-9a28-5274c9a6b4f0" name="Default Changelist" comment="`">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/global/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/global/ResponseCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/global/StatusResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/services/PersistService.java" afterDir="false" />
+    <list default="true" id="f91be388-458f-4306-9a28-5274c9a6b4f0" name="Default Changelist" comment="0728 - cross platform (java client + nodejs client)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/persistclient/controllers/SocketApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/controllers/SocketApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/persistclient/global/ResponseCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/global/ResponseCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/persistclient/services/PersistService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/persistclient/services/PersistService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/persistclient/controllers/SocketApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/persistclient/controllers/SocketApi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
@@ -85,7 +81,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627492554574</updated>
-      <workItem from="1627492555894" duration="11016000" />
+      <workItem from="1627492555894" duration="11209000" />
+      <workItem from="1627514317461" duration="3605000" />
+      <workItem from="1627593091578" duration="1365000" />
+      <workItem from="1627692685857" duration="35000" />
+      <workItem from="1627695643176" duration="165000" />
+      <workItem from="1627777546963" duration="460000" />
+      <workItem from="1627792551548" duration="3100000" />
     </task>
     <task id="LOCAL-00001" summary="`">
       <created>1627496151692</created>
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627496151692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0728 - cross platform (java client + nodejs client)">
+      <created>1627512100969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627512100969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,9 +119,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`" />
+    <MESSAGE value="0728 - cross platform (java client + nodejs client)" />
+    <option name="LAST_COMMIT_MESSAGE" value="0728 - cross platform (java client + nodejs client)" />
   </component>
 </project>
